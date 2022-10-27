@@ -1,0 +1,37 @@
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.exe
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.deps.json
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.json
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.dev.json
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.dll
+D:\Учебное\4 курс\Защита информации\Labs\LR1\bin\Debug\netcoreapp3.1\LR1.pdb
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.csprojAssemblyReference.cache
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.Form1.resources
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.csproj.GenerateResource.cache
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfoInputs.cache
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfo.cs
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.csproj.CoreCompileInputs.cache
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.dll
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.pdb
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.genruntimeconfig.cache
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.F1.resources
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.F2.resources
+D:\Учебное\4 курс\Защита информации\Labs\LR1\obj\Debug\netcoreapp3.1\LR1.F3.resources
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.exe
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.deps.json
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.json
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.dev.json
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.dll
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\bin\Debug\netcoreapp3.1\LR1.pdb
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.csproj.AssemblyReference.cache
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.F1.resources
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.F2.resources
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.F3.resources
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.Form1.resources
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.csproj.GenerateResource.cache
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.AssemblyInfoInputs.cache
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.AssemblyInfo.cs
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.csproj.CoreCompileInputs.cache
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.dll
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.pdb
+E:\Диск\YandexDisk\Рабочее\Для резюме\ЗИ системы шифрования\obj\Debug\netcoreapp3.1\LR1.genruntimeconfig.cache
